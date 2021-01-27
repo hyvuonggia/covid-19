@@ -1,0 +1,16 @@
+.label{
+    -fx-text-fill: white;
+    -fx-font-weight: bold;
+}
+
+#anchorPane{
+    -fx-background-color: black;
+}
+
+#labelRecovered{
+    -fx-text-fill: lawngreen;
+}
+
+#labelDeaths{
+    -fx-text-fill: red;
+}
